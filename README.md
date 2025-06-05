@@ -2,8 +2,8 @@
 This repository is to store all of the human gut microbiome datasets that links to the Parkinson's Disease. It also incorporates an application in Python that is able to take these datasets and then convert them into the desired dataset format that we would like to obtain.
 
 If the user has downloaded the dataset from the European Nucleotide Archive Database, the good databse to start from is ERP016332. The European Nucleotide Archive Database is a public database to store the nucleotide sequeue data for people interested to obtain those pieces of biological information for their research for example. The script to extract these .fastq files in a folder for ease of analysis is inside extract_fastq.sh file. To utilize, start with: 
-chmod +x extract_fastq.sh
-./extract_fastq.sh
+- chmod +x extract_fastq.sh
+- ./extract_fastq.sh
 
 Multiple tickets are created and are managed using BitBucket and Fork. By the end of August, we should have an interface that will be deployed so that users are able to utilize the application. Tickets will be continuously added to this and will be removed accordingly: 
 - 2234: Creating a sketchboard of what the application needs to look like
