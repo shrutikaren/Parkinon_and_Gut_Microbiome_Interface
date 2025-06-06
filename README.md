@@ -19,3 +19,5 @@ Multiple tickets are created and are managed using BitBucket and Fork. By the en
 - 3111: Research all the possible file formats for the human gut microbiome
 - 3112: Display a loading button until the process is completed for the user
 - 3323: Create the logic for inputting the .fastq files 
+
+This is the potential wireframe to support the UI design of the application: 
