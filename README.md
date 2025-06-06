@@ -21,3 +21,6 @@ Multiple tickets are created and are managed using BitBucket and Fork. By the en
 - 3323: Create the logic for inputting the .fastq files 
 
 This is the potential wireframe to support the UI design of the application: 
+![Image](https://github.com/user-attachments/assets/f7f03675-e89a-4ad2-9d77-32d4702e0bdd)
+![Image](https://github.com/user-attachments/assets/e878461c-27fd-4491-ad55-a6cbced93a1b)
+![Image](https://github.com/user-attachments/assets/87051493-fb8c-4068-8d5d-fce4de0f1a80)
